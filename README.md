@@ -1,8 +1,7 @@
 # <samp>Joao Melo</samp>
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/mupezzuol)](https://www.instagram.com/mupezzuol)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white&color=071A2C&link=https://www.youtube.com/c/MurilloPezzuol)](https://www.youtube.com/@mupezzuol)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/mupezzuol/)](https://www.linkedin.com/in/mupezzuol/)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white&color=071A2C&link=https://www.youtube.com/@john-melo-music)](https://www.youtube.com/@john-melo-music)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/joao-melo-dev/)](https://www.linkedin.com/in/joao-melo-dev/)
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
