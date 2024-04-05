@@ -5,7 +5,7 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
-<samp>I'm João Melo, a Brazilian who has lived for 1 year in Portugal 🇵🇹 and +1 year in the United States 🇺🇸. Recently, I worked at Valtech as a front-end developer, creating components for the CMS Sitecore and designing websites with my web design experience. I also developed my work as a software engineer by creating Python applications for businesses in my country.
+<samp>I'm João Melo, a Brazilian with experience living in Portugal 🇵🇹 and the USA 🇺🇸. Recently, I worked at Valtech as a front-end developer and web designer, creating components for the CMS Sitecore, maintainign and designing websites. I also developed my work as a software engineer by creating Python applications for businesses in my country.
 
 <samp>I’m also a multi-instrumentalist musician 🎤🎸🎹 and I’m passionate about all the benefits that technology can bring and solutions it can provide for life.
 </p>
