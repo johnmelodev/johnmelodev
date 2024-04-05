@@ -10,9 +10,9 @@
 <samp>I’m also a multi-instrumentalist musician 🎤🎸🎹 and I’m passionate about all the benefits that technology can bring and solutions it can provide for life.
 </p>
 
-- 💻&nbsp;<samp>My specialties are automation software in Python and full-stack work, mastering front-end with React JS and back-end with Node.js and Django.</samp>
+- 💻&nbsp;<samp>My specialties are Python automation and full-stack development, mastering React JS (front-end), Node.js, and Django (back-end).</samp>
 - 🎵&nbsp;<samp>I have a YouTube channel where I cover pop and rock songs and help people develop their music production skills.</samp>
 - ✈️&nbsp;<samp>I love to travel and get to know new places, people, and cultures.</samp>
-- 📚&nbsp;<samp>I graduated in business and since childhood, I have always used technology to create technological solutions that optimize my tasks.</samp>
+- 📚&nbsp;<samp>Business graduate, since youth my passion for technology has driven me to optimize tasks.</samp>
 
 ---
