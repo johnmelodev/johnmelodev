@@ -1,6 +1,5 @@
 # <samp>Joao Melo</samp>
 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white&color=071A2C&link=https://www.youtube.com/@john-melo-music)](https://www.youtube.com/@john-melo-music)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/joao-melo-dev/)](https://www.linkedin.com/in/joao-melo-dev/)
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
